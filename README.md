@@ -3,6 +3,7 @@ A full-stack web application that analyzes the sentiment of user-provided text, 
 
 ![https://github.com/thinkphp/sentiment-analyser/blob/main/Screenshot%20from%202025-02-07%2012-41-30.png?raw=true](https://github.com/thinkphp/sentiment-analyser/blob/main/Screenshot%20from%202025-02-07%2012-41-30.png?raw=true)
 
+![https://github.com/thinkphp/sentiment-analyser/blob/main/Screenshot%20from%202025-02-07%2012-42-03.png?raw=true](https://github.com/thinkphp/sentiment-analyser/blob/main/Screenshot%20from%202025-02-07%2012-42-03.png?raw=true)
 ## Features
 
 - Real-time sentiment analysis of text input
