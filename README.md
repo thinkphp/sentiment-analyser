@@ -1,6 +1,7 @@
 # Sentiment Analyzer
+A full-stack web application that analyzes the sentiment of user-provided text, delivering insightful sentiment metrics and visualizations. The app utilizes Flask for building the backend API and Next.js for a responsive and dynamic frontend interface. It processes input text, classifies sentiments into positive, negative, or neutral categories, and generates visual representations of the sentiment data to help users easily interpret the results. This project combines modern technologies to create an intuitive and powerful tool for text sentiment analysis.
 
-A full-stack web application that performs sentiment analysis on text input, providing detailed sentiment metrics and visualizations. The application uses Flask for the backend API and Next.js for the frontend interface.
+
 
 ## Features
 
