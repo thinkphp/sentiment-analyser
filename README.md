@@ -1,7 +1,7 @@
 # Sentiment Analyzer
 A full-stack web application that analyzes the sentiment of user-provided text, delivering insightful sentiment metrics and visualizations. The app utilizes Flask for building the backend API and Next.js for a responsive and dynamic frontend interface. It processes input text, classifies sentiments into positive, negative, or neutral categories, and generates visual representations of the sentiment data to help users easily interpret the results. This project combines modern technologies to create an intuitive and powerful tool for text sentiment analysis.
 
-
+![https://github.com/thinkphp/sentiment-analyser/blob/main/Screenshot%20from%202025-02-07%2012-41-30.png?raw=true](https://github.com/thinkphp/sentiment-analyser/blob/main/Screenshot%20from%202025-02-07%2012-41-30.png?raw=true)
 
 ## Features
 
